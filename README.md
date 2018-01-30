@@ -1,7 +1,7 @@
 # GDCollectionViewSectionBackgroundColor
 ##设置collectionViewSection背景颜色 可以每个section的背景颜色都不同，可以分别设置每个section背景颜色区域大小
 
-1.将CollectionViewFlowLayout.swift 拖入工程 \<br>
+1.将CollectionViewFlowLayout.swift 拖入工程 <br>
 2.在collectionViewVC 遵循GDCollectionViewDelegateFlowLayout代理 \<br>
 3.创建collectionView时 设置它的layout ： gdcollection.collectionViewLayout = GDCollectionViewFlowLayout() \<br>
 4.写出的代理方法 \<br>
